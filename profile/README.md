@@ -84,6 +84,7 @@
 - TODO: fill out metric conversions
 - `+x` is the direction from the rover start to the panel cluster, and is "forward" in the demo.
 - `+y` is orthogonal to `+x` and points to the right (looking along `+x`).
+
 | Name        | `x` (in)            | `y` (in)            | `x` (m)             | `y` (m)             |
 | ---         | ---                 | ---                 | ---                 | ---                 |
 | Panel 1     | +80                 | -20                 |                     |                     |
@@ -100,6 +101,7 @@
 
 #### Network
 - TODO: fill out `jetnet` last quartets
+
 | Name            | `jetnet` IPv4 |
 | ---             | ---           |
 | Jetson          | 10.42.0.1     |
